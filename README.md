@@ -2,15 +2,16 @@
 
 Brazilian full-stack developer with experience in JavaScript, TypeScript, and Python.
 
-## Skills
+## Code
+- JavaScript
+- TypeScript
+- Python
+
+## Technologies
 - React
 - Vue
 - Node.js
 - Flask
-- JavaScript
-- TypeScript
-- Python
-- Scrum
 
 ## Contact me
 
