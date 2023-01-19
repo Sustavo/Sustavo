@@ -1,6 +1,6 @@
 # Hi, I'm Gustavo 👋
 
-Brazilian full-stack developer with experience in JavaScript, TypeScript, and Python.
+Brazilian full-stack developer with experience in the following technologies:
 
 ## Code
 - JavaScript
